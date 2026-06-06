@@ -19,7 +19,7 @@ A simple Python application that sends desktop notifications every hour to remin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/drink-water-reminder.git
+git clone https://github.com/prashantmanisrivastava2004-sudo/drink-water-reminder.git
 cd drink-water-reminder
 ```
 
